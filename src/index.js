@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
+import './i18n'; // Importar configuración de i18next
+import './styles.css'; // Importar estilos
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 

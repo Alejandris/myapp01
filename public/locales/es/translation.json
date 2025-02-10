@@ -1,0 +1,12 @@
+{
+
+    "title": "Ejemplo de internacionalización",
+    "description": "Este es un ejemplo de internacionalización en una aplicación de Laravel con react",
+    "button_text": "Cambiar idioma",
+    "img": {
+        "alt": "Colombia",
+        "src": "/img/es.jpg"
+    },
+    "footer_text": "todos los derechos reservados"
+
+}

@@ -1,0 +1,11 @@
+{
+    "title": "Beispiel für Internationalisierung",
+    "description": "Dies ist ein Beispiel für Internationalisierung in einer Laravel-Anwendung mit react",
+    "img": {
+        "alt": "Flagge von Albanien",
+        "src": "/img/al.jpg"
+    },
+    "button_text": "Sprache ändern",
+    "footer_text": "Alle Rechte vorbehalten"
+   
+   }
